@@ -1,7 +1,6 @@
 name: Lab_egemsa
 channels:
   - conda-forge
-  - r_test
   - defaults
 dependencies:
   - _r-mutex=1.0.1=anacondar_1
